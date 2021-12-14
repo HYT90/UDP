@@ -1,0 +1,13 @@
+D:\SelfGameServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.exe
+D:\SelfGameServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.deps.json
+D:\SelfGameServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.runtimeconfig.json
+D:\SelfGameServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.runtimeconfig.dev.json
+D:\SelfGameServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.dll
+D:\SelfGameServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.pdb
+D:\SelfGameServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.csproj.AssemblyReference.cache
+D:\SelfGameServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.AssemblyInfoInputs.cache
+D:\SelfGameServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.AssemblyInfo.cs
+D:\SelfGameServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.csproj.CoreCompileInputs.cache
+D:\SelfGameServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.dll
+D:\SelfGameServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.pdb
+D:\SelfGameServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.genruntimeconfig.cache
